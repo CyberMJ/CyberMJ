@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CyberMJ
 - 👀 I’m interested in coding and security
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me montesunday@gmail.com
 
 <!---
 CyberMJ/CyberMJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
