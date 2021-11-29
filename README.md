@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CyberMJ
 - 👀 I’m interested in coding and security
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AWS and Powershell
 - 📫 How to reach me montesunday@gmail.com
 
 <!---
